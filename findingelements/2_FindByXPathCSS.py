@@ -1,5 +1,6 @@
 # Finding DOM elements using XPath and CSS selector
 # please see wiki for XPath and CSS selector cheat sheet
+# https://github.com/aclaudio123/selenium-refresher/wiki/CSS-Selector-Cheat-Sheet
 
 from selenium import webdriver
 
